@@ -1,2 +1,2 @@
 # KalkulatorSuhu.github.io
-Ojo lali jokowi
+# KalkulatorSuhu.github.io
